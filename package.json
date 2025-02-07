@@ -1,0 +1,22 @@
+{
+  "name": "atom-void-dark-theme",
+  "displayName": "Atom Void Dark",
+  "description": "A darker version of the Atom One Dark theme.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Atom Void Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Atom Void Dark-color-theme.json"
+      }
+    ]
+  }
+}
