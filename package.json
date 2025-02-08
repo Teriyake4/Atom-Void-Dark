@@ -4,6 +4,7 @@
   "description": "A darker version of the Atom One Dark theme.",
   "version": "0.0.1",
   "license": "MIT",
+  "publisher": "Teriyake4",
   "repository": {
     "type": "git",
     "url": "https://github.com/Teriyake4/Atom-Void-Dark/"
@@ -19,7 +20,7 @@
       {
         "label": "Atom Void Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Atom Void Dark-color-theme.json"
+        "path": "./themes/atomVoid.json"
       }
     ]
   }
